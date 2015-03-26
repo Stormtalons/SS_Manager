@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="scala-sdk" type="Scala">
+    <properties>
+      <compiler-classpath>
+        <root url="file://$PROJECT_DIR$/../../../Libraries/Scala/lib/scala-compiler.jar" />
+        <root url="file://$PROJECT_DIR$/../../../Libraries/Scala/lib/scala-library.jar" />
+        <root url="file://$PROJECT_DIR$/../../../Libraries/Scala/lib/scala-reflect.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/Scala/lib/scala-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/Scala/lib/scala-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

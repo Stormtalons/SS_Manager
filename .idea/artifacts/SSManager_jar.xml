@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SSManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSManager_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SSManager.jar">
+        <element id="module-output" name="SS Manager" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+      <element id="library" level="project" name="Scala" />
+    </root>
+  </artifact>
+</component>
